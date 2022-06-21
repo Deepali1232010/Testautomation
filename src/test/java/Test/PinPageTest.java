@@ -46,6 +46,10 @@ public class PinPageTest extends BaseTest {
 		public void NewTest() {
 			System.out.println("test git");
 		}
+	         @Test
+	public void SubodhTest() {
+			System.out.println("test subodh git");
+		}
 		
 	
 	@Test
